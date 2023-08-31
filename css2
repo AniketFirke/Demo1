@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Firke</title>
+<style>
+body {
+  background-color: lightblue;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+}
+h2{
+  color: rgb(132, 78, 6);
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+}
+</style>
+</head>
+<body>
+
+<h1>My First Program in CSS /h1>
+<h2>Welcome To Aniket Firke Github Account </h2>
+<p> It's a markup 
+  language that's used to create the structure and content of web pages</p>
+
+</body>
+</html>
