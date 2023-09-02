@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>Firke</title>
+  </head>
+    <body>
+  
+      <h1>The template Element</h1>
+  
+      <p>Click the button below to display the hidden content from the template element.</p>
+  
+      <button onclick="showContent()">Show hidden content</button>
+  
+      <template>
+        <h2>Developer</h2>
+        <img src="https://th.bing.com/th/id/OIP.QsiOIMsS1Jk7Fd49q3KzyQHaEK?pid=ImgDet&rs=1" width="214" height="204">
+      </template>
+  
+      <script>
+      function showContent() {
+        let temp = document.getElementsByTagName("template")[0];
+        let clon = temp.content.cloneNode(true);
+        document.body.appendChild(clon);
+      }
+      </script>
+  
+    </body>
+  </html>
