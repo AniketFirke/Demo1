@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Firke</title>
+<style>
+table, th, td {
+  border: 1px solid black;
+}
+</style>
+</head>
+<body>
+
+<h1>The thead, tbody, and tfoot elements</h1>
+
+<table>
+  <thead>
+    <tr>
+      <th>Month</th>
+      <th>Savings</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>January</td>
+      <td>₹1000</td>
+    </tr>
+    <tr>
+      <td>February</td>
+      <td>₹2080</td>
+    </tr>
+  </tbody>
+  <tfoot>
+    <tr>
+      <td>Sum</td>
+      <td>₹3080</td>
+    </tr>
+  </tfoot>
+</table>
+
+</body>
+</html>
