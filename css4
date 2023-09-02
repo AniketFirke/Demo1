@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<title>Firke</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://independence.aniketfirke.repl.co/">
+<body>
+
+<div class="a3-container">
+  <h2>Card Example</h2>
+
+  <div class="a3-card-4 a3-dark-grey" style="width:50%">
+
+    <div class="a3-container a3-center">
+      <h3>Friend Request</h3>
+      <img src="img_avatar3.png" alt="Avatar" style="width:80%">
+      <h5>John Doe</h5>
+
+      <div class="a3-section">
+        <button class="a3-button a3-green">Accept</button>
+        <button class="a3-button a3-red">Decline</button>
+      </div>
+    </div>
+
+  </div>
+</div>
+
+</body>
+</html>
