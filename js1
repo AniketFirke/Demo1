@@ -1,0 +1,9 @@
+<html>
+<body>
+<h1> Welcome to Aniket Firke Github Account </h1>
+<script>
+	var title = document.querySelector("h1");
+	title.innerHTML = "This is another title";
+</script>
+</body>
+</html>
