@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Firke</title>
+    <style>
+    .myDiv {
+      border: 5px outset red;
+      background-color: lightblue;    
+      text-align: center;
+      }
+    </style>
+  </head>
+  <body>
+
+  <h1>Welcome to Aniket Firke Github Account</h1>
+
+  <div class="myDiv">
+    <h2>Welcome to MIT</h2>
+      <p>This is some text in a div element.</p>
+  </div>
+
+  <p>This is some text outside the div element.</p>
+
+  </body>
+</html>
